@@ -8,7 +8,6 @@ This project involves creating a Hospital Registration API that aims to streamli
 
 - **Type of Challenge:** Project
 - **Duration:** Unknown
-- **Team Challenge:** Team of 2
 
 ## Learning Objectives
 
@@ -38,7 +37,5 @@ The API offers the following endpoints:
 - **Get All Doctors:** GET /api/doctors
 - **Get Doctor by ID:** GET /api/doctors/{id}
 
-For detailed information about each endpoint and its purpose, refer to the project's documentation.
 
-_Note: This project builds upon previous challenges, emphasizing teamwork and RESTful API design. Both team members are expected to contribute by creating various API endpoints following REST conventions and using appropriate HTTP methods._
 
